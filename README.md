@@ -49,5 +49,4 @@ The script will:
 - To persist agent and memory, remove the cleanup section in `main()`.
 - This is a minimal example for learning and experimentation.
 
-## License
-MIT License
+
